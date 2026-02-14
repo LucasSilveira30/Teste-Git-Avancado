@@ -1,18 +1,64 @@
-<h1>Jogo do número secreto</h1>
+# Teste de Git Avançado
 
-<h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+Este repositório foi criado com o objetivo de praticar conceitos de Lógica de Programação e aprofundar conhecimentos no uso do Git e do GitHub.
 
-## 🚀 Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+Repositório criado para testar mais ferramentas do Git.
 
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+🎯 Objetivos do Curso
 
-# Time
+Durante este curso, você irá:
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) |
-| :---: | :---: |
+✅ Visualizar as alterações de um projeto utilizando Git
+
+🌿 Trabalhar com branches
+
+🔀 Entender como utilizar merge e rebase
+
+📂 Conhecer os conceitos de working tree e staging area
+
+🏷️ Trabalhar com tags e releases no GitHub
+
+🛠️ Ferramentas Utilizadas
+
+Git
+
+GitHub
+
+📚 Conteúdo Abordado
+🔹 Lógica de Programação
+
+Conceitos fundamentais
+
+Estruturas condicionais
+
+Estruturas de repetição
+
+Boas práticas de organização de código
+
+🔹 Git na Prática
+
+git status
+
+git add
+
+git commit
+
+git branch
+
+git checkout
+
+git merge
+
+git rebase
+
+git tag
+
+🚀 Objetivo do Repositório
+
+Este projeto tem como finalidade:
+
+Servir como ambiente de testes para comandos do Git
+
+Simular fluxos de trabalho reais
+
+Experimentar boas práticas de versionamento
