@@ -19,6 +19,7 @@ Este repositório foi criado com o objetivo de aprofundar conhecimentos no uso d
 ## Ferramentas Utilizadas
 - Git
 - GitHub
+- Terminal (PowerShell / Git Bash)
 
 ---
 
