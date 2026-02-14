@@ -22,7 +22,7 @@ Este repositório foi criado com o objetivo de aprofundar conhecimentos no uso d
 
 ---
 
-### Comandos Testados
+## Comandos Testados
 
 - git log (com parâmetros)
 - git show
