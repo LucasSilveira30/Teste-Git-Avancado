@@ -1,4 +1,4 @@
-# Teste de Git e GitHub
+# Teste de Git e GitHub Avançado
 Este repositório, que nem o repositório "Teste-Git", contém códigos similares aos de um repositório anterior (Numero-Secreto-Avancado).
 
 ## Sobre o Projeto
